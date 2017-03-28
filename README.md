@@ -7,7 +7,7 @@ Final Project of Data Mining and Big Data Science Course at Ugent
 
 
 ----------------------------------------------------------------------------------------------
-## Question 2
+## Question 
 
 Although the educational level of the Portuguese population has improved in the last decades,the statistics keep Portugal at Europe’s tail end due to its high student failure rates. In particular, lack of success in the core classes of Mathematics and the Portuguese language isextremely serious. The data set student-mat.csv is meant to study the student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social, and school related features. The data were collected by combining school reports and questionnaires. Originally, two datasets were provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por).We will focus on the scores for mathematics. The variables in the data set are:
 1. school - student’s school (binary: ’GP’ - Gabriel Pereira or ’MS’ - Mousinho da Silveira)
