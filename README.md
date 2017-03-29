@@ -1,4 +1,4 @@
-# Big-Data-Mining
+# Data-Mining
 Final Project of Data Mining and Big Data Science Course at Ugent
 
 1. Omkar_Kulkarni_Summer_Project.R : Has the commented R code 
