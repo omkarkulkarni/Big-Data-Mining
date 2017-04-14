@@ -54,3 +54,4 @@ Of course the target attribute G3 has a strong correlation with attributes G2 an
 occurs because G3 is the final year grade (issued at the 3rd period), while G1 and G2 cor-
 respond to the 1st and 2nd period grades. The goal of the task is to predict G3 without G2
 and G1 which makes it more difficult, but such prediction is much more useful.
+
